@@ -1,0 +1,5 @@
+limit sentence len can get a good result.like 8-15 word per sentence.
+
+train.txt: multi turn chat dataset
+run genData.py to gen chat pairs
+than read README to get more detail
